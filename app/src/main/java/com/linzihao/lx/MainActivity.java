@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, LeaveMessage.class);
         startActivity(intent);
     }
+
+    public void onClickButton_2(View view) {
+        Intent intent = new Intent(this, ShowMessage.class);
+        startActivity(intent);
+    }
 }
