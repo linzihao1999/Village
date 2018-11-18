@@ -3,4 +3,8 @@
     <string name="main_title">Village是一个以原生态和可视化为追求 \n 为客户提供与优质农家直接对话的动态互动直销平台</string>
     <string name="main_button1">添加新的留言</string>
     <string name="main_button2">查看所有留言</string>
+    <string name="leave_message_title">给我们留言</string>
+    <string name="send_message">发送</string>
+    <string name="leave_message_text">请输入内容</string>
+    <string name="leave_message_show">您已发送的内容</string>
 </resources>
